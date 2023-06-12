@@ -9,7 +9,6 @@ My name is André Freitas, software developer based in Brazil. I am a Computer S
 <div>
 <a href="https://github.com/andrefsilveira1">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefsilveira1&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrefsilveira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 

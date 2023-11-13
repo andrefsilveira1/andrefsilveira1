@@ -1,10 +1,18 @@
 ### Hi there 👋
 
 
-My name is André Freitas, software developer based in Brazil. I am a Computer Science student at Federal University of Rio Grande do Norte. At the moment, working with Node.js, React, Svelte, Docker, Kubernetes and studying Go, Java, Fiber and ScyllaDB
+My name is André Freitas, software developer based in Brazil. I am a Computer Science student at Federal University of Rio Grande do Norte. At the moment, working with Node.js, React, Svelte, Docker, Kubernetes, FastAPI, AI, MySQL  and studying Go, Java, Fiber and ScyllaDB.
+
+My work consist develop tools to:
+
+- Petroleum
+- Mud Logging
+- R&D
+- Public Health System
 
 
 ✨ Marathonist at free time:  5KM 🔒 - 10KM 🔒 - 21KM 🔒
+
 
 <div>
 <a href="https://github.com/andrefsilveira1">

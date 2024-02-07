@@ -5,7 +5,7 @@ My name is André Freitas, software developer based in Brazil. I am a Computer S
 
 My work consist develop tools for:
 
-- Petroleum
+- Petroleum (Oil & Gas)
 - Mud Logging
 - R&D
 - Public Health System

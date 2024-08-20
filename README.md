@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm André Freitas, a software developer based in Brazil. I'm currently studying Computer Science at the Federal University of Rio Grande do Norte. In my work, I use Node.js, React, Svelte, Docker, Kubernetes, FastAPI, AI, MySQL, Terraform, and Azure Cloud through Clean Architecture, Hexagonal architecture and tests culture. I'm also learning Go, Java, Fiber, and ScyllaDB, and exploring CI/CD.
+I'm André Freitas, a software developer based in Brazil. I'm currently studying Computer Science at the Federal University of Rio Grande do Norte. In my work, I use Node.js, React, Svelte, Docker, Kubernetes, FastAPI, AI, MySQL, Terraform, and Azure Cloud through Clean Architecture, Hexagonal architecture Domain Driven Design and tests culture. I'm also learning Go, Java, Fiber, and ScyllaDB, and exploring CI/CD.
 
 My work involves developing cutting-edge tools for:
 

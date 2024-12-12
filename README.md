@@ -2,7 +2,7 @@
 
 I'm André Freitas, software engineer at Motorola Solutions. I'm currently studying Computer Science at the Federal University of Rio Grande do Norte.
 
-In my free time, I enjoy long-distance running: 5KM 🔒 - 10KM 🔒 - 21KM 🔒 - 28KM 🔒
+In my free time, I like Surf and long-distance running: 5KM 🔒 - 10KM 🔒 - 21KM 🔒 - 28KM 🔒
 
 <div>
 <a href="https://github.com/andrefsilveira1">

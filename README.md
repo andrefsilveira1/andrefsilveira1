@@ -2,7 +2,7 @@
 
 I'm André Freitas, software engineer at Motorola Solutions.
 
-In my free time, I like Surf and long-distance running: 5KM 🔒 - 10KM 🔒 - 21KM 🔒 - 28KM 🔒
+In my free time, I like to Surf and run: 5KM 🔒 - 10KM 🔒 - 21KM 🔒 - 42KM 🔒
 
 
 ## Contact me:
